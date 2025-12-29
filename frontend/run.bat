@@ -1,0 +1,3 @@
+@echo off
+echo Starting Frontend with Vite...
+npm run dev
